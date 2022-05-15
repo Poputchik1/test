@@ -1,1 +1,7 @@
-Document.querySelector('#hello').innerHTML = 'BRUH';
+document.addEventListener("DOMContentLoaded", () =>
+
+    {
+        Document.querySelector('#hello').innerHTML = 'BRUH';
+
+
+    })
