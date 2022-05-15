@@ -1,0 +1,1 @@
+Document.querySelector('#hello').innerHTML = 'BRUH';
